@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.env
+.DS_Store
+.streamlit/secrets.toml
+artifacts/*.joblib
+artifacts/*.json
+mlruns/
+logs/
