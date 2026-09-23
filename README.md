@@ -8,7 +8,7 @@ The project is intentionally aligned with real engineering workflows: a model is
 
 > Current demo baseline: **88.3% accuracy / 88.3% macro F1** on a deliberately noisy 3,000-row synthetic incident benchmark. These metrics are for the included demo dataset and are not claims about production performance.
 
-## Why this project is valuable for an AI/ML Engineer portfolio
+
 
 It demonstrates:
 
